@@ -18,3 +18,10 @@
 <p align="left">
 <a href="https://www.hackerearth.com/@shivam3136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shivam3136" height="30" width="40" /></a>
 </p>
+<h3>My Projects Link:</h3>
+<p align="left">
+<a href="https://shivam-music.herokuapp.com/" target="blank">Song website in Javascript</a>
+</p>
+<p align="left">
+<a href="https://shivam-weatherapp.herokuapp.com/" target="blank">Weather Details in PHP</a>
+</p>
