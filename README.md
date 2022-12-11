@@ -5,7 +5,7 @@ I'm a self-taught Web developer.
 <ul>
  <li>Web Developer with 1.8+ years of experience in developing ecommerce and business websites</li>
  <li>Current I am learning React.js</li>
- <li>🎯 Always Ready to learn new technologies.</li>
+ <li>Always Ready to learn new technologies.</li>
 </ul>
  
  <hr>
