@@ -12,8 +12,8 @@
  </ul>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>![image](https://user-images.githubusercontent.com/54504024/206900502-217a22bf-737b-40f2-82b7-ea107dc17b71.png)
-</p>
+<p>HTML, CSS, Javascript, Jquery, PHP, Laravel, MYSQL</p>
+
 
 <h3>My Projects Link:</h3>
 <ul>
