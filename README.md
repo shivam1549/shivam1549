@@ -16,4 +16,6 @@ I'm a self-taught Web developer.
 <h3>My Projects Link:</h3>
 <ul>
  <li><a href="https://shivam1549.github.io/snakegame/">Snake Game</a></li>
+ <li><a href="https://shivam1549.github.io/music-app/">Music App</a></li>
+  <li><a href="https://shivam1549.github.io/dragon-game-javascript/">Dragon Game</a></li>
 </ul>
