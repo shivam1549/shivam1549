@@ -5,14 +5,10 @@ I'm a self-taught Web developer.
 <ul>
  <li>Web Developer with 1.8+ years of experience in developing ecommerce and business websites</li>
  <li>Current I am learning React.js</li>
+ <li>🎯 Always Ready to learn new technologies.</li>
 </ul>
  
  <hr>
- 
- <ul>
- <li>💻 I'm currently working on React Js.</li>
- <li>🎯 Always Ready to learn new technologies.</li>
- </ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>HTML, CSS, Javascript, Jquery, PHP, Laravel, MYSQL</p>
