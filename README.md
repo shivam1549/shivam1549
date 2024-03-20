@@ -3,7 +3,7 @@
 <h3>🚀 About me</h3>
 I'm a self-taught Web developer.
 <ul>
- <li>Web Developer with 1.8+ years of experience in developing ecommerce and business websites</li>
+ <li>Web Developer with 3+ years of experience in developing ecommerce and business websites</li>
  <li>Current I am learning React.js</li>
  <li>Always Ready to learn new technologies.</li>
 </ul>
